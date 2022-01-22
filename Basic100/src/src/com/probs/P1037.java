@@ -2,12 +2,12 @@ package src.com.probs;
 
 import java.util.Scanner;
 
-public class P1036 {
+public class P1037 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int inputNum = sc.nextInt();
-		System.out.printf("%c", (char)inputNum);
+		char c = sc.next().charAt(0);
+		System.out.printf("%d", (int)c);
 	}
 
 }
