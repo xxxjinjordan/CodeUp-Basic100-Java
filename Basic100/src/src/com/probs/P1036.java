@@ -8,7 +8,6 @@ public class P1036 {
 		Scanner sc = new Scanner(System.in);
 		char c = sc.next().charAt(0);
 		System.out.printf("%d", (int)c);
-		//System.out.printf("%d", Character.getNumericValue(c));
 	}
 
 }
