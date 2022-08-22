@@ -1,3 +1,3 @@
 # CodeUp-Basic100-Java
-Learning basics of Java language.
-All written by jdev
+Learning basics of Java language.  
+All written by JDEV
